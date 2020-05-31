@@ -1,0 +1,69 @@
+﻿  GameScenes.cpp
+D:\Project\Space Trip\Space Trip\Space Trip\SpriteObject.cpp(37,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\TextObject.cpp(33,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(79,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(90,43): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(99,1): warning C4305: +=: усечение из "double" в "float"
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(116,40): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(124,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(124,28): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(171,94): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(171,66): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.h(23,24): error C3646: gamescene: неизвестный спецификатор переопределения
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.h(23,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.cpp(65,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.cpp(66,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.cpp(67,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Space Trip.cpp
+D:\Project\Space Trip\Space Trip\Space Trip\SpriteObject.cpp(37,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\TextObject.cpp(33,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(79,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(90,43): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(99,1): warning C4305: +=: усечение из "double" в "float"
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(116,40): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(124,41): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(124,28): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(171,94): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameObjects.cpp(171,66): warning C4244: аргумент: преобразование "const int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.h(23,24): error C3646: gamescene: неизвестный спецификатор переопределения
+D:\Project\Space Trip\Space Trip\Space Trip\GameScenes.h(23,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
