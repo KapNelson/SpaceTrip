@@ -30,7 +30,6 @@ class Planet : public SpriteObject
 {
 private:
     int run;
-    int r;
     //std::vector<std::string> PlanetTextures = {"Planet.png","Planet1.png","Planet2.png","Planet3.png","Planet4.png","Planet5.png","Planet6.png"};
     Vector2f position;
     void Start()
@@ -41,9 +40,6 @@ private:
         SetScale(Vector2f(0.5,0.5));
         SetPosition(position);
         run = rand() % 9 + 1;
-        //SetPosition(Vector2f(400, 300));
-        //SetScale(Vector2f(0.5, 0.5));
-        //parentScene->engine->camera.SetTarget(GetGlobalPosition());
     }
     void Update()
     {
